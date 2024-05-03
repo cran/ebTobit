@@ -1,4 +1,4 @@
-d0e4c83508f052fbd1d1bcca08864796 *DESCRIPTION
+0799424ccdaf4ffa95f9c19709fba18c *DESCRIPTION
 216e55bfc3460e55cfd7ab87f03271ac *NAMESPACE
 c2ae4965893657e013b1d8710544b57d *R/BileAcid.R
 1290c439fea7ff39f0ca4297a08b936f *R/RcppExports.R
@@ -6,8 +6,8 @@ c2ae4965893657e013b1d8710544b57d *R/BileAcid.R
 2137fb9e090b4dc12d82c22f8a562677 *R/ebTobit.R
 d887c2717545406f54215b1b60ce4acd *R/fittingMethods.R
 2da5b0fb56315621f81dd4a9ed5357ce *R/tobit_sd.R
-6ee7ebf52be3cd7b536112e36eb75b63 *README.md
-0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
+369b927da747abdd34aca941b46a6807 *README.md
+7080893e02c49cd296d4424b9be55069 *build/partial.rdb
 29dcdc356eff2424d34544c93c4a3209 *data/BileAcid.rda
 c201315beae3ad4a3d0f7ea83ffd6634 *man/BileAcid.Rd
 cd21d8c501409969268a4ecc123b3d35 *man/ConvexDual.Rd
@@ -26,7 +26,7 @@ cbc1d64bc20a7bd7d99f8420ad980c26 *man/posterior_L1mediod.ebTobit.Rd
 4dc4636e752a6d826f210651abaaad0f *man/predict.ebTobit.Rd
 bb3058b586f84aca66953f4ca9b87a99 *man/tobit_sd.Rd
 a2f53c95d80b73898d9416fc61704786 *man/tobit_sd_mle.Rd
-6014c03e12a9cd06ffe2974fb06b2e67 *src/EM.cpp
+288def842dc7b62c7e4e18c9707d6500 *src/EM.cpp
 1f1c9459bfd04b8aadd22a2be152d203 *src/Makevars
 1f1c9459bfd04b8aadd22a2be152d203 *src/Makevars.win
 67cc147b675fc2dc6ab42a177eaaf79e *src/RcppExports.cpp
